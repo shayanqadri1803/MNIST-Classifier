@@ -17,11 +17,6 @@ Install the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-## Project Structure
-.
-├── main.py                  # Main application script
-├── models/
-│   └── mnist_model.keras    # Pre-trained Keras model
-└── requirements.txt         # Python dependencies
+
 
 
